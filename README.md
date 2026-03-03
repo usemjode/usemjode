@@ -1,12 +1,12 @@
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3498DB&width=435&lines=Hi+there!+I'm+S3cretVR;Welcome+to+my+Profile!" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3498DB&width=435&lines=Hi+there!+I'm+S3cretVR;Welcome+to+my+Profile!" alt="Typing SVG" />
 
-# Im Currently Working On:
+### Im Currently Working On:
 Nothing!
 
-# My Hobby is:
+### My Hobby is:
 Youtube
 
-# My Pronouns are:
+### My Pronouns are:
 He/Him
 
 [![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_LINK)
