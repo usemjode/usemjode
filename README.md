@@ -1,16 +1,21 @@
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3498DB&width=435&lines=Hi+there!+I'm+S3cretVR;Welcome+to+my+Profile!" alt="Typing SVG" />
 
-### Im Currently Working On:
-Nothing!
+Q&A
 
-### My Hobby is:
-Youtube
+### Q: Im Currently Working On:
+A: Nothing!
 
-### My Pronouns are:
-He/Him
+### Q: My Hobby is:
+A: Youtube
 
-[![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_LINK)
-[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_LINK)
+### Q: My Pronouns are:
+A: He/Him
+
+### Q: How to reach me?:
+A: Discord, and Youtube comments!
+
+[![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CTSTstNQsW)
+[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@s3cretgt?si=aGR5nbdcm9UqJ8_n)
 
 <!--
 **usemjode/usemjode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
