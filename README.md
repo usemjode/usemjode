@@ -1,4 +1,6 @@
 ## Hi there 👋
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3498DB&width=435&lines=Hi+there!+I'm+YourName;Student+and+Developer;Welcome+to+my+Profile!" alt="Typing SVG" />
+
 
 <!--
 **usemjode/usemjode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
